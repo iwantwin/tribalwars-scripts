@@ -904,7 +904,7 @@ function loadJqueryPlugins(){
       if($.jStorage.get("language") == null){
         setDefaultLanguage();
       }
-      $.getScript('https://www.iwantwin.nl/scripts/tribalwars/hardcoded_fa/'+$.jStorage.get("language")+'.js',function(){
+      $.getScript('https://github.com/iwantwin/tribalwars-scripts/blob/master/hardcoded_fa/'+$.jStorage.get("language")+'.js',function(){
         showSettings();
       });
     });
