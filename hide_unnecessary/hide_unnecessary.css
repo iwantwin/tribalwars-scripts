@@ -1,0 +1,74 @@
+/***********************************************************************************************************************/
+/****************** Dit bestand is auteursrechtelijk beschermd.                          *******************************/
+/***********************************************************************************************************************/
+/****************** Copyright by iwantwin.nl and owner(s). Script created in august 2014 *******************************/
+/****************** with the goal to decrease loading duration and bandwidth usage for   *******************************/
+/****************** tribalwars.nl version 8.25 and higher. Forking and partial usage     *******************************/
+/****************** allowed under the obligation of noticing the author at               *******************************/
+/****************** tribalwars@iwantwin.nl                                               *******************************/
+/***********************************************************************************************************************/
+/****************** Latest update for tribalwars version 8.30 on 09-12-2014              *******************************/
+/***********************************************************************************************************************/
+
+/*Hide minimap on player profile and village profile: it's useless and annoying.*/
+#player_info #minimap,
+td[colspan] #minimap {
+    display: none;
+}
+
+/*Hide user images in ranking list. Code reused with permission from Poo. Check: http://forum.tribalwars.nl/showthread.php?181984-Grafisch-script-verwijderen-onoverzichtelijke-ranking-forum-Pm-s*/
+.userimage-tiny {
+    display: none;
+}
+/*Reset messages in "conversations" to take up full width of the messagescontainer*/
+.post {
+    width: 100%;
+}
+/*Reset messages in "conversations" so it doesn't alter the border color and message position. It's visually unattractive. Code reused with permission from Poo. Check: http://forum.tribalwars.nl/showthread.php?181984-Grafisch-script-verwijderen-onoverzichtelijke-ranking-forum-Pm-s*/
+.post.own {
+    float: left;
+    border: 1px solid rgba(128, 20, 0, 0.7);
+}
+
+/*Set ingame messages and forum messages to display non-obtrusive colors for message headers on titles*/
+.post .igmline {
+    background: #EFE6C9;
+}
+/*Set ingame messages to display non-obtrusive colors for message headers on titles*/
+.post.own .igmline { background: #ECD7AC; }
+
+/*Hide body background-image, it's set to not use cache, hiding decreases loading time and bandwidth.*/
+body { background-image: none; }
+
+/*Make faded navigation bar icons invisible, decreasing loading time and bandwidth. Also makes visual difference between
+having or not having a notification clearer*/
+.icon.header.no_new_post,
+.icon.header.new_report_faded,
+.icon.header.new_mail_faded {
+    background-image: none;
+}
+
+/*Clear both sides for troop templates in village "place" when sending troops. No longer on the right side, but beneath
+attack and support buttons. Also, we add a margin to the bottom to make it look more neat.*/
+#content_value > div.vis.float_left {
+    clear: both;
+    margin-bottom: 15px !important;
+    margin-left: 5px !important;
+}
+
+/*Make the unsupported browser notice less obtrusive, specifically targeted to opera 12. Notice is still visible to
+encourage people to move on to newer browsers.*/
+#unsupported-browser { color: inherit !important; opacity: 0.4; }
+#unsupported-browser:before { content: 'Let op! '; }
+#unsupported-browser img { display: none; }
+
+/*Hide info-box icon for groups without villages, introduced in tw update version 8.27*/
+.info_box { background-image: none !important; }
+
+/*Normalize units_form on order assembly in place*/
+#units_form > table > tbody > tr > td > table > tbody > tr,
+#units_form > table > tbody > tr > td > table > tbody > tr > td,
+#units_form > table > tbody > tr > td > table > tbody > tr > th {
+    display: block;
+    width: 175px;
+}
