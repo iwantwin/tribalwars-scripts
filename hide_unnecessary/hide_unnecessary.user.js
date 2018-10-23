@@ -19,7 +19,7 @@
         var fileref = document.createElement("link");
         fileref.setAttribute("rel", "stylesheet");
         fileref.setAttribute("type", "text/css");
-        fileref.setAttribute("href", 'https://iwantwin.nl/tribalwars/style/hide_unnecessary.css');
+        fileref.setAttribute("href", 'https://raw.githubusercontent.com/iwantwin/tribalwars-scripts/master/hide_unnecessary/hide_unnecessary.css');
         (d.body || d.head || d.documentElement).appendChild( fileref );
     }
 );
