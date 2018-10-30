@@ -5,7 +5,6 @@ javascript:(function(){var b="undefined"!=typeof window.main?window.main.documen
 ```
 
 # Forum thread tribalwars.nl
-Main topic:
 https://forum.tribalwars.nl/index.php?threads/s-renameallvillages.188281/
 
 #### Approval for tribalwars.nl
