@@ -5,6 +5,9 @@ javascript:(function(){var b="undefined"!=typeof window.main?window.main.documen
 ```
 
 # Forum thread tribalwars.nl
-Volgens mij is hier geen thread van op het forum. Wel gevonden? Let me know! Stuur mij even een berichtje :)
+https://forum.tribalwars.nl/index.php?threads/vlaggen-verwijderen.201768/
 
-https://forum.tribalwars.nl/index.php?threads/vlaggen-verwijderen.200686/#post-6248089
+#### Approval for tribalwars.nl
+Ticket: t10420350  
+Datum aanvraag: 2016-04-20 13:32:00
+Datum goedkeuring: 2016-04-21 10:17:36
