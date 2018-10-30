@@ -3,3 +3,5 @@
 
 # Forum thread tribalwars.nl
 Volgens mij is hier geen thread van op het forum. Wel gevonden? Let me know! Stuur mij even een berichtje :)
+
+https://forum.tribalwars.nl/index.php?threads/gm-tbr-map-v3-2.89433/page-63#post-5669004

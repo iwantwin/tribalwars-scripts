@@ -6,3 +6,11 @@ javascript:(function(){var b="undefined"!=typeof window.main?window.main.documen
 
 # Forum thread tribalwars.nl
 Volgens mij is hier geen thread van op het forum. Wel gevonden? Let me know! Stuur mij even een berichtje :)
+
+https://forum.tribalwars.nl/index.php?threads/s-renameallvillages.188281/
+https://forum.tribalwars.nl/index.php?threads/dorpen-hernoemen.70505/#post-6077553
+
+#### Keuring
+Ticket: t10420386
+Datum aanvraag: 2016-04-20 13:49:05
+Datum goedkeuring: 2016-04-20 10:17:56
