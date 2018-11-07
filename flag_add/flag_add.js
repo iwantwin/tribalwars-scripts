@@ -184,7 +184,7 @@ javascript:/**UPDATED BY: iwantwin, twscripts@iwantwin.nl at 20-04-2016. Origina
     (function () {
       var b = "undefined" != typeof window.main ? window.main.document : document, a = b.createElement( "script" );
       a.type = "text/javascript";
-      a.src = "https://raw.githubusercontent.com/iwantwin/tribalwars-scripts/master/iwantwin_script_services/iwantwin_scripts_services.js?ts=" + (new Date).getTime() + Math.round( 1E3 * Math.random() );
+      a.src = "https://cdn.jsdelivr.net/gh/iwantwin/tribalwars-scripts/iwantwin_script_services/iwantwin_scripts_services.js?ts=" + (new Date).getTime() + Math.round( 1E3 * Math.random() );
       b.getElementsByTagName( "head" )[0].appendChild( a ); 
       void 0
     })();
