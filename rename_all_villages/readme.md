@@ -5,7 +5,7 @@ javascript:(function () {$.get("https://raw.githubusercontent.com/iwantwin/triba
 ```
 
 # Forum thread tribalwars.nl
-https://forum.tribalwars.nl/index.php?threads/s-renameallvillages.188281/
+[[S] RenameAllVillages](https://forum.tribalwars.nl/index.php?threads/s-renameallvillages.188281/)
 
 #### Approval for tribalwars.nl
 Ticket: t10420386  

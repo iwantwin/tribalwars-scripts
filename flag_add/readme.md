@@ -5,7 +5,7 @@ javascript:(function () {$.get("https://raw.githubusercontent.com/iwantwin/triba
 ```
 
 # Forum thread tribalwars.nl
-https://forum.tribalwars.nl/index.php?threads/vlaggen-toevoegen.201767/
+[Vlaggen toevoegen](https://forum.tribalwars.nl/index.php?threads/vlaggen-toevoegen.201767/)
 
 #### Approval for tribalwars.nl
 Ticket: t10420358  

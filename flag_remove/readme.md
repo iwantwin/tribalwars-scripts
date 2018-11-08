@@ -5,7 +5,7 @@ javascript:(function () {$.get("https://raw.githubusercontent.com/iwantwin/triba
 ```
 
 # Forum thread tribalwars.nl
-https://forum.tribalwars.nl/index.php?threads/vlaggen-verwijderen.201768/
+[Vlaggen verwijderen](https://forum.tribalwars.nl/index.php?threads/vlaggen-verwijderen.201768/)
 
 #### Approval for tribalwars.nl
 Ticket: t10420350  

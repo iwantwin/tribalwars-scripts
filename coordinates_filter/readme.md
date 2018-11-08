@@ -5,7 +5,7 @@ javascript:(function () {$.get("https://raw.githubusercontent.com/iwantwin/triba
 ```
 
 # Forum thread tribalwars.nl
-https://forum.tribalwars.nl/index.php?threads/s-coordinaten-filter.175882/
+[[S] Coordinaten Filter](https://forum.tribalwars.nl/index.php?threads/s-coordinaten-filter.175882/)
 
 ####Keuring  
 Ticket: t8244809  

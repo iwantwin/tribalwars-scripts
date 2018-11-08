@@ -5,7 +5,7 @@ javascript:(function () {$.get("https://raw.githubusercontent.com/iwantwin/triba
 ```
 
 # Forum thread tribalwars.nl
-https://forum.tribalwars.nl/index.php?threads/s-groepen-instellen-op-alle-paginas-change-groups-everywhere.174242/
+[[S] Groepen instellen op alle pagina's // Change groups everywhere](https://forum.tribalwars.nl/index.php?threads/s-groepen-instellen-op-alle-paginas-change-groups-everywhere.174242/)
 
 ####Keuring  
 Ticket: t8244809  
