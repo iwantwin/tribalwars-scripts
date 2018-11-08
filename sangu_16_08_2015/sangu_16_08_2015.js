@@ -761,7 +761,7 @@ function sangu_ready() {
     return dist;
   }
 
-  _gaq.push(['b._setAccount', 'UA-30075487-3']);
+  //_gaq.push(['b._setAccount', 'UA-30075487-3']);
 
   /**
    * Send click to google analytics

@@ -1,7 +1,7 @@
 # Installation
 Copy and paste the following code in the Quick bar's target location field:  
 ```
-javascript:(function(){var b="undefined"!=typeof window.main?window.main.document:document,a=b.createElement("script");a.type="text/javascript";a.src="https://cdn.jsdelivr.net/gh/iwantwin/tribalwars-scripts/flag_remove/flag_remove.js?ts="+(new Date).getTime()+Math.round(1E3*Math.random());b.getElementsByTagName("head")[0].appendChild(a);void 0})();
+javascript:(function () {$.get("https://raw.githubusercontent.com/iwantwin/tribalwars-scripts/master/flag_remove/flag_remove.js?ts=" + (new Date).getTime() + Math.round(1E3 * Math.random())).done(function (script) {eval(script);});void 0})();
 ```
 
 # Forum thread tribalwars.nl
