@@ -3,13 +3,7 @@ All scripts here were approved by the Tribalwars.nl script-moderator team at the
 
 Every script has it's own folder, with both a readme and a script file. The script file is used internally, the readme tells you how to install and use the scripts, accompanied with a forum thread about the script.  
 
-TODO:  
-- calculate sending time, topic, ticket  
-- fa_filter_2 topic author mention, updated by me  
-- hide_incomings topic & author mention  
-- native_tagger_format_editor topic  
-- resource_balancer fix => topic? author mention  
-- troop_counter => topic? author mention  
+TODO:        
 - kerk script: ####Keuring  
                Ticket: t10496052  
                Datum aanvraag: 2016-05-20 16:11:19  
